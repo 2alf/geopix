@@ -1,0 +1,2 @@
+# geopix
+Probabilistically generated pictograms
